@@ -72,8 +72,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 14px;
-  box-shadow: 0 0 18px rgba(19, 240, 46, 0.25),
-              0 0 10px rgba(22, 65, 26, 0.4) inset;
+  box-shadow: 0 0 18px #ffb224, 0 0 10px rgba(22, 65, 26, 0.4) inset;
   cursor: pointer;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   animation: pulse 1s infinite ease-in-out;
